@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raphael-nls/Raphael-nls/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Raphael-nls/Raphael-nls/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -33,8 +30,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Raphael-nls/Raphael-nls/snake-output/snake.svg" alt="Snake animation" />
 
 ###
