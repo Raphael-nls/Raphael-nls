@@ -47,8 +47,8 @@ Software Engineering student at FAMETRO College. Passionate about technology, I 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raphael-nls&show_icons=true&locale=en&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" height="180" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raphael-nls&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="180" alt="Top languages"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub stats"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top languages"/>
 
 <br>
 
