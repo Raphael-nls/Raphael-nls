@@ -56,12 +56,6 @@ Software Engineering student at FAMETRO College. Passionate about technology, I 
 
 </div>
 
-<h2 align="center">⌘ Commit Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raphael-nls/Raphael-nls/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
-</p>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" />
