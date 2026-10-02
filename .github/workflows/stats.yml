@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Raphael-nls&locale=en&layout=compact&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF
+          options: username=Raphael-nls&locale=en&layout=compact&hide=python&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
