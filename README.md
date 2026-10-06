@@ -21,7 +21,7 @@ Software Engineering student at FAMETRO College. Passionate about technology, I 
 
 - 🏢 Working at **I3M Engenharia**
 - 📍 Based in **Manaus/AM, Brazil**
-- 🌱 Currently practicing **HTML, CSS and JavaScript**
+
 
 <h2 align="center">🤝 Connect</h2>
 
